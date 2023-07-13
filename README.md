@@ -1,6 +1,6 @@
 # Hi there! I'm Gio 
 
-23 year old Informantion Systems Student living in Curitiba, Brazil. 
+23 year old Informantion Systems student living in Curitiba, Brazil. 
 At the moment I'm currently learning Java, Python and SQL but I'm constantly updating my skills and exploring new technologies!
 
 I'm also interested in photography, but for now it's just a hobby :)
