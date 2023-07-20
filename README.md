@@ -3,8 +3,6 @@
 23 year old Informantion Systems student living in Curitiba, Brazil. 
 At the moment I'm currently learning Java, Python and SQL but I'm constantly updating my skills and exploring new technologies!
 
-I'm also interested in photography, but for now it's just a hobby :)
-
 ## Skills 👩‍💻
 ![Python](https://img.shields.io/badge/Python-1B390E?style=for-the-badge&logo=python&logoColor=white
 ) ![Java](https://img.shields.io/badge/Java-254D13?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-2E6218?style=for-the-badge&logo=mysql&logoColor=white)
