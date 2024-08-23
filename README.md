@@ -1,6 +1,6 @@
 # Hi there! I'm Gio 
 
-23 year old Computer Information Systems student living in Curitiba, Brazil. 
+24 year old Computer Information Systems student living in Curitiba, Brazil. 
 At the moment I'm currently learning Java, Python and SQL but I'm constantly updating my skills and exploring new technologies!
 
 ## Skills 👩‍💻
